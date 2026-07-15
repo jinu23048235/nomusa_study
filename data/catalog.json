@@ -1,10 +1,21 @@
 {
-  "version": "2.0.0",
+  "version": "2.1.0",
+  "updated": "2026-07-15",
   "past": [
-    {"file":"data/past/2025-34.json","year":2025,"round":34,"verified":true},
-    {"file":"data/past/2024-33.json","year":2024,"round":33,"verified":true}
+    "data/past/2021-30-l1.json",
+    "data/past/2021-30-l2.json",
+    "data/past/2022-31-l1.json",
+    "data/past/2022-31-l2.json",
+    "data/past/2023-32-l1.json",
+    "data/past/2023-32-l2.json",
+    "data/past/2024-33-l1.json",
+    "data/past/2024-33-l2.json",
+    "data/past/2025-34-l1.json",
+    "data/past/2025-34-l2.json"
   ],
   "practice": [
-    {"file":"data/practice/core.json","name":"기출 기반 복습 60문제"}
-  ]
+    "data/practice/core.json",
+    "data/practice/recent5-review.json"
+  ],
+  "notes": "최근 5개년 제30~34회 노동법Ⅰ·Ⅱ. OCR 자료는 검수상태 표시."
 }

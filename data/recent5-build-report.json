@@ -1,0 +1,66 @@
+{
+  "total": 310,
+  "reviews": 926,
+  "files": [
+    {
+      "file": "data/past/2021-30-l1.json",
+      "questions": 25,
+      "parsedValid": 0,
+      "ocr": true
+    },
+    {
+      "file": "data/past/2021-30-l2.json",
+      "questions": 25,
+      "parsedValid": 0,
+      "ocr": true
+    },
+    {
+      "file": "data/past/2022-31-l1.json",
+      "questions": 25,
+      "parsedValid": 25,
+      "ocr": false
+    },
+    {
+      "file": "data/past/2022-31-l2.json",
+      "questions": 25,
+      "parsedValid": 25,
+      "ocr": false
+    },
+    {
+      "file": "data/past/2023-32-l1.json",
+      "questions": 25,
+      "parsedValid": 25,
+      "ocr": false
+    },
+    {
+      "file": "data/past/2023-32-l2.json",
+      "questions": 25,
+      "parsedValid": 0,
+      "ocr": true
+    },
+    {
+      "file": "data/past/2024-33-l1.json",
+      "questions": 40,
+      "parsedValid": 39,
+      "ocr": false
+    },
+    {
+      "file": "data/past/2024-33-l2.json",
+      "questions": 40,
+      "parsedValid": 39,
+      "ocr": false
+    },
+    {
+      "file": "data/past/2025-34-l1.json",
+      "questions": 40,
+      "parsedValid": 38,
+      "ocr": false
+    },
+    {
+      "file": "data/past/2025-34-l2.json",
+      "questions": 40,
+      "parsedValid": 40,
+      "ocr": false
+    }
+  ]
+}
