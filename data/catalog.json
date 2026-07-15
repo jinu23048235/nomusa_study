@@ -1,0 +1,10 @@
+{
+  "version": "2.0.0",
+  "past": [
+    {"file":"data/past/2025-34.json","year":2025,"round":34,"verified":true},
+    {"file":"data/past/2024-33.json","year":2024,"round":33,"verified":true}
+  ],
+  "practice": [
+    {"file":"data/practice/core.json","name":"기출 기반 복습 60문제"}
+  ]
+}
